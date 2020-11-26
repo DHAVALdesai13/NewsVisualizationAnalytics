@@ -1,0 +1,6 @@
+numpy
+pandas
+spacy
+flask
+geonamescache
+torch==1.6
